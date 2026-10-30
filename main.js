@@ -11,3 +11,4 @@ let nuevaVentas = [
 
 
 registrarVentas(ventas, nuevaVentas);
+console.log(ventas);
