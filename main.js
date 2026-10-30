@@ -12,3 +12,5 @@ let nuevaVentas = [
 
 registrarVentas(ventas, nuevaVentas);
 console.log(ventas);
+
+console.log("Total de ingresos:", calcularTotal(ventas));
